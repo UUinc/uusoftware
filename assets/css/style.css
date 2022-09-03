@@ -11739,5 +11739,10 @@ textarea.form-control {
 
 .contact-social_media
 {
-  line-height: 60px;
+  line-height: 40px;
+}
+.social_media
+{
+  display: flex;
+  justify-content: space-between;
 }
