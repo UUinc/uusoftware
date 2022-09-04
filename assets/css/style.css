@@ -11746,3 +11746,8 @@ textarea.form-control {
   display: flex;
   justify-content: space-between;
 }
+.google-play
+{
+  font-size: 18px;
+  color: #5F6368;
+}
