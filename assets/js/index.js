@@ -40,3 +40,9 @@ $(window).on("load", function() {
         }), !1
     })
 })
+
+//Go to a specific section
+function goto($location)
+{
+    document.location = $location;
+}
