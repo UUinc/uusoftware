@@ -11228,11 +11228,11 @@ textarea.form-control {
 }
 
 .navbar.custom-navbar.affix .nav-link {
-  color: #444;
+  color: #999;
 }
 
 .navbar.custom-navbar.affix .nav-link:hover {
-  color: #000;
+  color: #AAA;
 }
 
 .pagination .page-item {
@@ -11750,4 +11750,8 @@ textarea.form-control {
 {
   font-size: 18px;
   color: #5F6368;
+}
+.softwaresBTN
+{
+  color: #fff !important;
 }
