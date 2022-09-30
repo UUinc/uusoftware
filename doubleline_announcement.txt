@@ -1,0 +1,25 @@
+What's new
+<sprite name=party> v.3.1
+
+<sprite name=fix> v.3.1.2
+<sprite name=dot> Now Supports Android 12 & 13
+<sprite name=dot> Minor Fixes
+
+<sprite name=gift> v.3.1.1
+<sprite name=star> Story Mode:
+<sprite name=dot> 10 levels <sprite name=game>
+<sprite name=dot> Collect stars to unlock levels! <sprite name=star><sprite name=star><sprite name=star>
+<sprite name=dot> Speedrun Leaderboard <sprite name=clock>
+
+<sprite name=star> New Features:
+<sprite name=dot> Shop for customizing <sprite name=shop>
+<sprite name=dot> More Colors <sprite name=colors>
+<sprite name=dot> More Heads <sprite name=skull>
+<sprite name=dot> More Effects <sprite name=sparks>
+
+
+<sprite name=star> Upcoming Features
+<sprite name=dot> LAN Multiplayer
+<sprite name=dot> Online Multiplayer
+
+Enjoy this all-new Double Line v.3
