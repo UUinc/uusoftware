@@ -1,12 +1,15 @@
 What's new
 <sprite name=party> v.3.2
+
 <sprite name=number1> v.3.2
 <sprite name=dot> 50% off on IAPs for the first 100 buyers <sprite name=money>
 <sprite name=dot> Crash & Bugs fixes <sprite name=fix>
+
 <sprite name=star> v.3.1
 <sprite name=dot> Story Mode <sprite name=trophy>
 <sprite name=dot> 10 levels <sprite name=game>
 <sprite name=dot> Speedrun leaderboard <sprite name=clock>
+
 <sprite name=star> Upcoming Features
 <sprite name=dot> LAN Multiplayer <sprite name=world>
 <sprite name=dot> Online Multiplayer <sprite name=world>
